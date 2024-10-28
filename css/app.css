@@ -1,0 +1,90 @@
+body {
+    background-color: aliceblue;
+}
+
+
+.counteiner {
+    width: 90vw;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+}
+
+
+.inp {
+    width: 350px;
+    height: 28px;
+    border-radius: 5px;
+    border-color: aliceblue;
+}
+.colors {
+    margin-top: 20px;
+
+}
+.color {
+    margin-right: 8px;
+    width: 15px;
+    height: 15px;
+    background-color:aqua ;
+    border-radius: 50px;
+
+}
+.addremo {
+    margin-top: 20px;
+    display: flex;
+    justify-content: right;
+    gap: 5px;
+}
+.clear {
+    width: 30px;
+    height: 30px;
+    background-color: lightcoral;
+    align-items: center;
+    border-radius: 5px;
+}
+.add {
+    width: 30px;
+    height: 30px;
+    background-color: greenyellow;
+    align-items: center;
+    border-radius: 5px;
+}
+.notifs {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.nott {
+width: 272px;
+height: 50px;
+background-color:white;
+border-radius: 5px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+
+h1 {
+    font-size: 50px;
+}
+
+#red {
+    background-color: red;
+}
+#blue {
+    background-color: blue ;
+}
+#green {
+    background-color:green ;
+}
+#pink {
+    background-color:pink ;
+}
+#white {
+    background-color: white;
+}
